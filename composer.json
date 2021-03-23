@@ -1,5 +1,5 @@
 {
-  "name": "mageplaza/module-blog-graphql",
+  "name": "vidy/module-blog-graphql",
   "description": "Magento 2 Blog GraphQL extension",
   "require": {
     "mageplaza/magento-2-blog-extension": "^3.1|^4.0"
